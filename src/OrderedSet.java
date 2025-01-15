@@ -6,7 +6,7 @@
  Comparable interface or any interface that extends Comparable. Construct an
  OrderedSet of elements where the elements are not comparable is not possible.
  
- @authors Rick Mercer and Luis Encinas
+ @authors Luis Encinas and Rick Mercer
  */
 
 public class OrderedSet<T extends Comparable<T>> {
